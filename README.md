@@ -13,7 +13,7 @@
    - R&D部門でクラウドやマイクロサービス、APIを軸に調査中や作業中
 
 ## 未来
- - 実作業者、本当に困っている人を助けられる人になれればいいな・・・実現力を身に着けたい！
+ - 実作業者、本当に困っている人を助けられる人になれればいいな・・・実現力を身につけたい。
 
 <!--
 **wktka4/wktka4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
