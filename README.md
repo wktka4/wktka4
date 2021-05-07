@@ -1,3 +1,4 @@
+<!--
 ## 考え方
  - 基本となるものに感謝。
  - 自身の能力が上がっている実感がある状態が好き。　※筋トレとかも好き（笑）
@@ -15,7 +16,7 @@
 ## 未来
  - 実作業者、本当に困っている人を助けられる人になれればいいな・・・実現力を身につけたい。
 
-<!--
+
 **wktka4/wktka4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
