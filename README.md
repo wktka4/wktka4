@@ -3,11 +3,12 @@
 ## 技術傾向
 主にWEB関連に従事
 ### 好きなもの
-- React, javascript, HTML, css
+- React, javascript, HTML, CSS
 - AWS（LambdaやAPI Gateway, S3, Cognitoなどマイクロサービス系）
+- Linux（WSLやCloud9で使いやすいので最近はUbuntu）
+- DB関連
 ### まぁまぁ
 - Java, Spring Boot, Gradle, Tomcat, Oracle ADF, Weblogic
-- DB関連
 ## 経歴
 1. 薬学部大学院卒業
 1. 建築企業の資材調達管理システムの運用保守
