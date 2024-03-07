@@ -1,7 +1,7 @@
 # どんな人？
 
 ## 技術傾向
-主にWEB関連に従事
+主に業務系WEBアプリ開発に従事
 ### 好きなもの
 - React, javascript, HTML, CSS
 - AWS（LambdaやAPI Gateway, S3, Cognitoなどマイクロサービス系）
