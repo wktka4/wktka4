@@ -25,7 +25,7 @@
 - AWS（LambdaやAPI Gateway, S3, Cognitoなどマイクロサービス系）
 - Linux（WSLやCloud9で使いやすいので最近はUbuntu）
 - DB関連
-- スクラム、モブプロ、HRT（謙虚、尊敬、信頼）の原則の実践、サーバントマネージャーなど
+- デザイン思考、スクラム、モブプロ、HRT（謙虚、尊敬、信頼）の原則、サーバントマネージャーなど
 
 ## まぁまぁ
 - Java, Spring Boot, Gradle, Tomcat, Oracle ADF, Weblogic
@@ -36,19 +36,3 @@
 - ゲーム（ソウルライク、戦略系など）
 - ハイドロカルチャー、水耕栽培
 - 技術的なボランティア
-
-
-
-**wktka4/wktka4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
